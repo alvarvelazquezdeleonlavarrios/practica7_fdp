@@ -1,9 +1,9 @@
 #include<stdio.h>
 #include<math.h>
-#include<conio.h> /* FunciÛn getch() */
-#define pi 3.1416
-//Prog2. ¡rea de un cÌrculo
+#include<conio.h> /* Funci√≥n getch() */
+//Prog2. √Årea de un c√≠rculo
 
+const float pi = 3.1416;
 float r,b,a;
 
 main(){
